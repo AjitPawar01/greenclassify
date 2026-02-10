@@ -1,6 +1,6 @@
 # Greenclassify 🌿📷
 
-## Video Demo : https://youtu.be/VHOU6-u3zb0
+## Video Demo : [https://youtu.be/VHOU6-u3zb0](https://drive.google.com/file/d/1_3JZQXZ3g-AiEBtoviC_gaeWlVKCn7Xs/view?usp=drivesdk)
 
 ## Greenclassify: Deep Learning-Based Approach For Vegetable Image Classification
 
@@ -32,7 +32,7 @@ To set up and run the project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/roshanrateria/greenclassify.git
+   git clone https://github.com/AjitPawar01/greenclassify.git
    cd greenclassify
    ```
 
